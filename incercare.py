@@ -12,3 +12,5 @@ def git_push():
         origin.push()
 
 git_push()
+
+print("manci sarmale")
